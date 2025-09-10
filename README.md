@@ -1,1 +1,1 @@
-# book-review-platform
+# Book review platform
